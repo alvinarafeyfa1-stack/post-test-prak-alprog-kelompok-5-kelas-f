@@ -3,7 +3,7 @@
 ### Kelompok 5 — Kelas F
 
 **Praktikum Algoritma dan Pemrograman**
-**Teknik Informatika — Universitas Diponegoro**
+**Teknik Elektro — Universitas Diponegoro**
 
 ---
 
@@ -223,6 +223,6 @@ Repositori ini dibuat untuk keperluan akademik dalam rangka memenuhi tugas **Pos
 
 **Post-Test Praktikum Algoritma dan Pemrograman**
 Kelas F • Kelompok 5
-Teknik Informatika • Universitas Diponegoro • 2026
+Teknik Elektro • Universitas Diponegoro • 2026
 
 </div>
